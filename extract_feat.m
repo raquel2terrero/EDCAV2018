@@ -6,4 +6,3 @@ function [f0, coef] = extract_feat(audioIn, fs)
         'MedianFilterLength', 50);
     coef = mfcc(audioIn, fs, 'LogEnergy', 'Replace');
 end
-
