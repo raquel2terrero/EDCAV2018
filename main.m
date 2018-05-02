@@ -6,7 +6,7 @@ clases = cell(N,1);
 k = 1;
 %sabiendo que estan ordenados
 for i = 1:N
-    if singers{i} ~= singer{k}
+    if strcmp(singers{i},singer{k})==0
         k = k + 1;
     end
     clases{i} = clase{k};    
