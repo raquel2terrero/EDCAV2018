@@ -141,16 +141,16 @@
 ./Dataset/Kaathaadi_2.wav	Sambasevam Shanmugam chica
 ./Dataset/Kaathaadi_3.wav	Sambasevam Shanmugam chica
 ./Dataset/Kaathaadi_4.wav	Sambasevam Shanmugam chico
-./Dataset/Bordeline_1.wav	Secretariat
-./Dataset/Bordeline_2.wav	Secretariat
-./Dataset/Bordeline_3.wav	Secretariat
-./Dataset/Bordeline_4.wav	Secretariat
-./Dataset/Bordeline_5.wav	Secretariat
-./Dataset/Bordeline_6.wav	Secretariat
-./Dataset/Bordeline_7.wav	Secretariat
-./Dataset/Bordeline_8.wav	Secretariat
-./Dataset/Bordeline_9.wav	Secretariat
-./Dataset/Bordeline_10.wav	Secretariat
+./Dataset/Borderline_1.wav	Secretariat
+./Dataset/Borderline_2.wav	Secretariat
+./Dataset/Borderline_3.wav	Secretariat
+./Dataset/Borderline_4.wav	Secretariat
+./Dataset/Borderline_5.wav	Secretariat
+./Dataset/Borderline_6.wav	Secretariat
+./Dataset/Borderline_7.wav	Secretariat
+./Dataset/Borderline_8.wav	Secretariat
+./Dataset/Borderline_9.wav	Secretariat
+./Dataset/Borderline_10.wav	Secretariat
 ./Dataset/OverTheTop_1.wav	Secretariat
 ./Dataset/OverTheTop_2.wav	Secretariat
 ./Dataset/OverTheTop_3.wav	Secretariat
