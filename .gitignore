@@ -1,5 +1,6 @@
 
-prj/desktop.ini
-bin/*
-intermediate/*
-lib/*
+
+pav/bin/*
+pav/intermediate/*
+pav/lib/*
+*.ini
