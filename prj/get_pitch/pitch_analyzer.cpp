@@ -2,7 +2,6 @@
 #include <math.h>
 #include "pitch_analyzer.h"
 using namespace std;
-float PI=3.1415926535;
 /*get_pitch input_file.wav input_file.f0  |cut -f1 > input_file.pot*/
 
 namespace upc {

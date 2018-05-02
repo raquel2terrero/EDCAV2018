@@ -3,3 +3,4 @@ prj/desktop.ini
 bin/*
 intermediate/*
 lib/*
+*.DS_Store

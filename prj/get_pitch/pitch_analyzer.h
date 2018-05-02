@@ -7,7 +7,7 @@
 namespace upc {
   const float MIN_F0=20.0F;
   const float MAX_F0=10000.0F;
-
+  const float PI=3.1415926535F;
   /*!
     PitchAnalyzer: class that computes the pitch (in Hz) from a signal frame.
     No pre-processing or post-processing has been included
