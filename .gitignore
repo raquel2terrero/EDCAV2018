@@ -8,3 +8,4 @@ pav/bin/*
 pav/intermediate/*
 pav/lib/*
 *.ini
+*.asv
