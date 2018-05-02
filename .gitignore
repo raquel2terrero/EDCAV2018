@@ -9,3 +9,4 @@ pav/intermediate/*
 pav/lib/*
 *.ini
 *.asv
+*.m~
