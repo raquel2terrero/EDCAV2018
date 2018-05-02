@@ -4,3 +4,7 @@ bin/*
 intermediate/*
 lib/*
 *.DS_Store
+pav/bin/*
+pav/intermediate/*
+pav/lib/*
+*.ini
