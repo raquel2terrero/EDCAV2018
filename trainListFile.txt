@@ -127,3 +127,199 @@
 ./Dataset/GhostBitch_7.wav	Drumtracks
 ./Dataset/GhostBitch_8.wav	Drumtracks
 ./Dataset/GhostBitch_9.wav	Drumtracks
+./Dataset/EverybodysFallingApart_1.wav	Phre The Eon
+./Dataset/EverybodysFallingApart_2.wav	Phre The Eon
+./Dataset/EverybodysFallingApart_3.wav	Phre The Eon
+./Dataset/EverybodysFallingApart_4.wav	Phre The Eon
+./Dataset/EverybodysFallingApart_5.wav	Phre The Eon
+./Dataset/Tiring_1.wav	Raft Monk
+./Dataset/Tiring_2.wav	Raft Monk
+./Dataset/Tiring_3.wav	Raft Monk
+./Dataset/Tiring_4.wav	Raft Monk
+./Dataset/Tiring_5.wav	Raft Monk
+./Dataset/Kaathaadi_1.wav	Sambasevam Shanmugam chica
+./Dataset/Kaathaadi_2.wav	Sambasevam Shanmugam chica
+./Dataset/Kaathaadi_3.wav	Sambasevam Shanmugam chica
+./Dataset/Kaathaadi_4.wav	Sambasevam Shanmugam chico
+./Dataset/Bordeline_1.wav	Secretariat
+./Dataset/Bordeline_2.wav	Secretariat
+./Dataset/Bordeline_3.wav	Secretariat
+./Dataset/Bordeline_4.wav	Secretariat
+./Dataset/Bordeline_5.wav	Secretariat
+./Dataset/Bordeline_6.wav	Secretariat
+./Dataset/Bordeline_7.wav	Secretariat
+./Dataset/Bordeline_8.wav	Secretariat
+./Dataset/Bordeline_9.wav	Secretariat
+./Dataset/Bordeline_10.wav	Secretariat
+./Dataset/OverTheTop_1.wav	Secretariat
+./Dataset/OverTheTop_2.wav	Secretariat
+./Dataset/OverTheTop_3.wav	Secretariat
+./Dataset/OverTheTop_4.wav	Secretariat
+./Dataset/SingWithMe_1.wav	Side Effects Project
+./Dataset/SingWithMe_2.wav	Side Effects Project
+./Dataset/SingWithMe_3.wav	Side Effects Project
+./Dataset/WhatHaveYouDoneToMe_1.wav	Signe Jakobsen
+./Dataset/WhatHaveYouDoneToMe_2.wav	Signe Jakobsen
+./Dataset/WhatHaveYouDoneToMe_3.wav	Signe Jakobsen
+./Dataset/HumanMistakes_1.wav	Skelpolu
+./Dataset/HumanMistakes_2.wav	Skelpolu
+./Dataset/HumanMistakes_3.wav	Skelpolu
+./Dataset/HumanMistakes_4.wav	Skelpolu
+./Dataset/HumanMistakes_5.wav	Skelpolu
+./Dataset/HumanMistakes_6.wav	Skelpolu
+./Dataset/HumanMistakes_7.wav	Skelpolu
+./Dataset/HumanMistakes_8.wav	Skelpolu
+./Dataset/HumanMistakes_9.wav	Skelpolu
+./Dataset/HumanMistakes_10.wav	Skelpolu
+./Dataset/HumanMistakes_11.wav	Skelpolu
+./Dataset/HumanMistakes_12.wav	Skelpolu
+./Dataset/HumanMistakes_13.wav	Skelpolu
+./Dataset/HumanMistakes_14.wav	Skelpolu
+./Dataset/Resurrection_1.wav	Skelpolu
+./Dataset/Resurrection_2.wav	Skelpolu
+./Dataset/Resurrection_3.wav	Skelpolu
+./Dataset/TogetherAlone_1.wav	Skelpolu
+./Dataset/TogetherAlone_2.wav	Skelpolu
+./Dataset/TogetherAlone_3.wav	Skelpolu
+./Dataset/TogetherAlone_4.wav	Skelpolu
+./Dataset/TogetherAlone_5.wav	Skelpolu
+./Dataset/TogetherAlone_6.wav	Skelpolu
+./Dataset/TogetherAlone_7.wav	Skelpolu
+./Dataset/TogetherAlone_8.wav	Skelpolu
+./Dataset/TogetherAlone_9.wav	Skelpolu
+./Dataset/TogetherAlone_10.wav	Skelpolu
+./Dataset/TogetherAlone_11.wav	Skelpolu
+./Dataset/TogetherAlone_12.wav	Skelpolu
+./Dataset/TogetherAlone_13.wav	Skelpolu
+./Dataset/BrokenMan_1.wav	Speak Softly
+./Dataset/BrokenMan_2.wav	Speak Softly
+./Dataset/BrokenMan_3.wav	Speak Softly
+./Dataset/BrokenMan_4.wav	Speak Softly
+./Dataset/BrokenMan_5.wav	Speak Softly
+./Dataset/LikeHorses_1.wav	Speak Softly
+./Dataset/LikeHorses_2.wav	Speak Softly
+./Dataset/LikeHorses_3.wav	Speak Softly
+./Dataset/LikeHorses_4.wav	Speak Softly
+./Dataset/LikeHorses_5.wav	Speak Softly
+./Dataset/LikeHorses_6.wav	Speak Softly
+./Dataset/LikeHorses_7.wav	Speak Softly
+./Dataset/LikeHorses_8.wav	Speak Softly
+./Dataset/LikeHorses_9.wav	Speak Softly
+./Dataset/LikeHorses_10.wav	Speak Softly
+./Dataset/MikesSulking_1.wav	Spike Mullings
+./Dataset/MikesSulking_2.wav	Spike Mullings
+./Dataset/MikesSulking_3.wav	Spike Mullings
+./Dataset/MikesSulking_4.wav	Spike Mullings
+./Dataset/MikesSulking_5.wav	Spike Mullings
+./Dataset/MikesSulking_6.wav	Spike Mullings
+./Dataset/MikesSulking_7.wav	Spike Mullings
+./Dataset/WordGetsAround_1.wav	St Vitus
+./Dataset/WordGetsAround_2.wav	St Vitus
+./Dataset/WordGetsAround_3.wav	St Vitus
+./Dataset/WordGetsAround_4.wav	St Vitus
+./Dataset/WordGetsAround_5.wav	St Vitus
+./Dataset/WordGetsAround_6.wav	St Vitus
+./Dataset/WordGetsAround_7.wav	St Vitus
+./Dataset/WordGetsAround_8.wav	St Vitus
+./Dataset/WordGetsAround_9.wav	St Vitus
+./Dataset/WordGetsAround_10.wav	St Vitus
+./Dataset/WordGetsAround_11.wav	St Vitus
+./Dataset/WordGetsAround_12.wav	St Vitus
+./Dataset/WordGetsAround_13.wav	St Vitus
+./Dataset/LostMyWay_1.wav	Swinging Steaks
+./Dataset/LostMyWay_2.wav	Swinging Steaks
+./Dataset/LostMyWay_3.wav	Swinging Steaks
+./Dataset/LostMyWay_4.wav	Swinging Steaks
+./Dataset/LostMyWay_5.wav	Swinging Steaks
+./Dataset/LostMyWay_6.wav	Swinging Steaks
+./Dataset/LostMyWay_7.wav	Swinging Steaks
+./Dataset/LostMyWay_8.wav	Swinging Steaks
+./Dataset/LostMyWay_9.wav	Swinging Steaks
+./Dataset/LostMyWay_10.wav	Swinging Steaks
+./Dataset/Atrophy_1.wav	The Doppler Shift
+./Dataset/Atrophy_2.wav	The Doppler Shift
+./Dataset/Atrophy_3.wav	The Doppler Shift
+./Dataset/Atrophy_4.wav	The Doppler Shift
+./Dataset/Atrophy_5.wav	The Doppler Shift
+./Dataset/DarkHorses_1.wav	The Long Wait
+./Dataset/DarkHorses_2.wav	The Long Wait
+./Dataset/DarkHorses_3.wav	The Long Wait
+./Dataset/DarkHorses_4.wav	The Long Wait
+./Dataset/DarkHorses_5.wav	The Long Wait
+./Dataset/DarkHorses_6.wav	The Long Wait
+./Dataset/DarkHorses_7.wav	The Long Wait
+./Dataset/DarkHorses_8.wav	The Long Wait
+./Dataset/ForIAmTheMoon_1.wav	The Sunshine Garcia Band
+./Dataset/ForIAmTheMoon_2.wav	The Sunshine Garcia Band
+./Dataset/ForIAmTheMoon_3.wav	The Sunshine Garcia Band
+./Dataset/ForIAmTheMoon_4.wav	The Sunshine Garcia Band
+./Dataset/ForIAmTheMoon_5.wav	The Sunshine Garcia Band
+./Dataset/ForIAmTheMoon_6.wav	The Sunshine Garcia Band
+./Dataset/ForIAmTheMoon_7.wav	The Sunshine Garcia Band
+./Dataset/Stalker_1.wav	Tim Taler
+./Dataset/Stalker_2.wav	Tim Taler
+./Dataset/Stalker_3.wav	Tim Taler
+./Dataset/Stalker_4.wav	Tim Taler
+./Dataset/Stalker_5.wav	Tim Taler
+./Dataset/Stalker_6.wav	Tim Taler
+./Dataset/Stalker_7.wav	Tim Taler
+./Dataset/Stalker_8.wav	Tim Taler
+./Dataset/Stalker_9.wav	Tim Taler
+./Dataset/Stalker_10.wav	Tim Taler
+./Dataset/Stalker_11.wav	Tim Taler
+./Dataset/Stalker_12.wav	Tim Taler
+./Dataset/HauntedAge_1.wav	Titanium
+./Dataset/HauntedAge_2.wav	Titanium
+./Dataset/HauntedAge_3.wav	Titanium
+./Dataset/OnceMore(WithFeeling)_1.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_2.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_3.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_4.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_5.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_6.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_7.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_8.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_9.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_10.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_11.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_12.wav	Traffic Experiment
+./Dataset/OnceMore(WithFeeling)_13.wav	Traffic Experiment
+./Dataset/Angelsaint_1.wav	Triviul
+./Dataset/Angelsaint_2.wav	Triviul
+./Dataset/Angelsaint_3.wav	Triviul
+./Dataset/Angelsaint_4.wav	Triviul
+./Dataset/Widow_1.wav	The Fiend
+./Dataset/Widow_2.wav	The Fiend
+./Dataset/Widow_3.wav	The Fiend
+./Dataset/Widow_4.wav	The Fiend
+./Dataset/Femme_1.wav	Wall Of Death
+./Dataset/Femme_2.wav	Wall Of Death
+./Dataset/Femme_3.wav	Wall Of Death
+./Dataset/Femme_4.wav	Wall Of Death
+./Dataset/Femme_5.wav	Wall Of Death
+./Dataset/Femme_6.wav	Wall Of Death
+./Dataset/Femme_7.wav	Wall Of Death
+./Dataset/Femme_8.wav	Wall Of Death
+./Dataset/Femme_9.wav	Wall Of Death
+./Dataset/Femme_10.wav	Wall Of Death
+./Dataset/Femme_11.wav	Wall Of Death
+./Dataset/Femme_12.wav	Wall Of Death
+./Dataset/Femme_13.wav	Wall Of Death
+./Dataset/Femme_14.wav	Wall Of Death
+./Dataset/Femme_15.wav	Wall Of Death
+./Dataset/Femme_16.wav	Wall Of Death
+./Dataset/Femme_17.wav	Wall Of Death
+./Dataset/Femme_18.wav	Wall Of Death
+./Dataset/Femme_19.wav	Wall Of Death
+./Dataset/Femme_20.wav	Wall Of Death
+./Dataset/Femme_21.wav	Wall Of Death
+./Dataset/Femme_22.wav	Wall Of Death
+./Dataset/Femme_23.wav	Wall Of Death
+./Dataset/Femme_24.wav	Wall Of Death
+./Dataset/BloodToBone_1.wav	Young Griffo
+./Dataset/BloodToBone_2.wav	Young Griffo
+./Dataset/Pennies_1.wav	Young Griffo
+./Dataset/Pennies_2.wav	Young Griffo
+./Dataset/Pennies_3.wav	Young Griffo
+./Dataset/Pennies_4.wav	Young Griffo
+./Dataset/Pennies_5.wav	Young Griffo
