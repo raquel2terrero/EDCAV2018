@@ -1,0 +1,129 @@
+./Dataset/OneMinuteSmile_1.wav	Actions
+./Dataset/OneMinuteSmile_2.wav	Actions
+./Dataset/SchoolboyFascination_01.wav	Al James
+./Dataset/SchoolboyFascination_02.wav	Al James
+./Dataset/SchoolboyFascination_03.wav	Al James
+./Dataset/SchoolboyFascination_04.wav	Al James
+./Dataset/SchoolboyFascination_05.wav	Al James
+./Dataset/SchoolboyFascination_06.wav	Al James
+./Dataset/SchoolboyFascination_07.wav	Al James
+./Dataset/SchoolboyFascination_08.wav	Al James
+./Dataset/SchoolboyFascination_09.wav	Al James
+./Dataset/SchoolboyFascination_10.wav	Al James
+./Dataset/SchoolboyFascination_11.wav	Al James
+./Dataset/SchoolboyFascination_12.wav	Al James
+./Dataset/SchoolboyFascination_13.wav	Al James
+./Dataset/SchoolboyFascination_14.wav	Al James
+./Dataset/SchoolboyFascination_15.wav	Al James
+./Dataset/SchoolboyFascination_16.wav	Al James
+./Dataset/SchoolboyFascination_17.wav	Al James
+./Dataset/SchoolboyFascination_18.wav	Al James
+./Dataset/MilkCowBlues_1.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_2.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_3.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_4.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_5.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_6.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_7.wav	Angela Thomas Wade
+./Dataset/MilkCowBlues_8.wav	Angela Thomas Wade
+./Dataset/ClinicA_1.wav	ANiMAL
+./Dataset/ClinicA_2.wav	ANiMAL
+./Dataset/ClinicA_3.wav	ANiMAL
+./Dataset/ClinicA_4.wav	ANiMAL
+./Dataset/Rockshow_1.wav	ANiMAL
+./Dataset/Rockshow_2.wav	ANiMAL
+./Dataset/Rockshow_3.wav	ANiMAL
+./Dataset/Rockshow_4.wav	ANiMAL
+./Dataset/Rockshow_5.wav	ANiMAL
+./Dataset/Rockshow_6.wav	ANiMAL
+./Dataset/Rockshow_7.wav	ANiMAL
+./Dataset/Rockshow_8.wav	ANiMAL
+./Dataset/Rockshow_9.wav	ANiMAL
+./Dataset/ItWasMyFaultForWaiting_1.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_2.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_3.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_4.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_5.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_6.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_7.wav	Atlantis Bound
+./Dataset/ItWasMyFaultForWaiting_8.wav	Atlantis Bound
+./Dataset/ChildrenOfNoone_01.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_02.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_03.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_04.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_05.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_06.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_07.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_08.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_09.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_10.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_11.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_12.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_13.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_14.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_15.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_16.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_17.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_18.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_19.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_20.wav	Bill Chudziak
+./Dataset/ChildrenOfNoone_21.wav	Bill Chudziak
+./Dataset/TooMuch_01.wav	BKS
+./Dataset/TooMuch_02.wav	BKS
+./Dataset/TooMuch_03.wav	BKS
+./Dataset/TooMuch_04.wav	BKS
+./Dataset/TooMuch_05.wav	BKS
+./Dataset/TooMuch_06.wav	BKS
+./Dataset/TooMuch_07.wav	BKS
+./Dataset/TooMuch_08.wav	BKS
+./Dataset/TooMuch_09.wav	BKS
+./Dataset/TooMuch_10.wav	BKS
+./Dataset/TooMuch_11.wav	BKS
+./Dataset/TooMuch_12.wav	BKS
+./Dataset/TooMuch_13.wav	BKS
+./Dataset/StitchUp_01.wav	Bobby Nobody
+./Dataset/StitchUp_02.wav	Bobby Nobody
+./Dataset/StitchUp_03.wav	Bobby Nobody
+./Dataset/StitchUp_04.wav	Bobby Nobody
+./Dataset/StitchUp_05.wav	Bobby Nobody
+./Dataset/StitchUp_06.wav	Bobby Nobody
+./Dataset/StitchUp_07.wav	Bobby Nobody
+./Dataset/StitchUp_08.wav	Bobby Nobody
+./Dataset/StitchUp_09.wav	Bobby Nobody
+./Dataset/StitchUp_10.wav	Bobby Nobody
+./Dataset/StitchUp_11.wav	Bobby Nobody
+./Dataset/StitchUp_12.wav	Bobby Nobody
+./Dataset/APlaceForUs_01.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_02.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_03.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_04.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_05.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_06.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_07.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_08.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_09.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_10.wav	Carlos Gonzalez
+./Dataset/APlaceForUs_11.wav	Carlos Gonzalez
+./Dataset/Bannockburn_1.wav	Cnoc An Tursa
+./Dataset/Bannockburn_2.wav	Cnoc An Tursa
+./Dataset/Bannockburn_3.wav	Cnoc An Tursa
+./Dataset/Bannockburn_4.wav	Cnoc An Tursa
+./Dataset/Bannockburn_5.wav	Cnoc An Tursa
+./Dataset/Bannockburn_6.wav	Cnoc An Tursa
+./Dataset/Bannockburn_7.wav	Cnoc An Tursa
+./Dataset/Bannockburn_8.wav	Cnoc An Tursa
+./Dataset/BurningBridges_1.wav	Dark Ride
+./Dataset/BurningBridges_2.wav	Dark Ride
+./Dataset/BurningBridges_3.wav	Dark Ride
+./Dataset/BurningBridges_4.wav	Dark Ride
+./Dataset/BurningBridges_5.wav	Dark Ride
+./Dataset/BurningBridges_6.wav	Dark Ride
+./Dataset/GhostBitch_1.wav	Drumtracks
+./Dataset/GhostBitch_2.wav	Drumtracks
+./Dataset/GhostBitch_3.wav	Drumtracks
+./Dataset/GhostBitch_4.wav	Drumtracks
+./Dataset/GhostBitch_5.wav	Drumtracks
+./Dataset/GhostBitch_6.wav	Drumtracks
+./Dataset/GhostBitch_7.wav	Drumtracks
+./Dataset/GhostBitch_8.wav	Drumtracks
+./Dataset/GhostBitch_9.wav	Drumtracks
