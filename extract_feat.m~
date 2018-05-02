@@ -1,0 +1,8 @@
+function [f0, mfcc] = extract_feat(audioIn, fs)
+%UNTITLED2 Summary of this function goes here
+%   Detailed explanation goes here
+    f0 = pitch(audioIn, fs, ...
+        'WindowLength', ,'MedianFilterLength', 50);
+    
+end
+
