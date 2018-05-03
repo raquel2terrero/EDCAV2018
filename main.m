@@ -13,17 +13,19 @@ for i = 1:N
 end
 
 %% extract features for each audio file
-features = cell(N, 2); %{class, [pitch, coef]}
+ncoef = 13;
+features = cell(N, 1); %{[pitch, coef]}
 for i=1:N
     [audioIn, fs] = audioread(fileNames{i});
-    [f0, coef] = extract_feat(audioIn, fs);
-    features{i, 1} = clases(i);
-    features{i, 2} = [f0, coef];
+    [f0, coef] = extract_feat(audioIn, fs, ncoef);
+    features{i,1} = [f0, coef];
 end
-% normalizar
-featureVectors = features{:,2};
+
+%% normalizar
+featureVectors = features{:,1};
 m = mean(featureVectors);
 s = std(featureVectors);
+features_norm = features;
 for i=1:N
-    features{i,2} = (features{i}-m)./s;
+    features_norm{i,2} = (features{i,2}-m)./s;
 end
