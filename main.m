@@ -18,14 +18,17 @@ features = cell(N, 1); %{[pitch, coef]}
 for i=1:N
     [audioIn, fs] = audioread(fileNames{i});
     [f0, coef] = extract_feat(audioIn, fs, ncoef);
-    features{i,1} = [f0, coef];
+    features{i} = [f0, coef];
 end
 
-%% normalizar
-featureVectors = features{:,1};
-m = mean(featureVectors);
-s = std(featureVectors);
-features_norm = features;
+clear audioIn
+%% normalize
+all_features = cell2mat(features(:));
+m = mean(all_features);
+s = std(all_features);
+features_norm = cell(N,1);
 for i=1:N
-    features_norm{i,2} = (features{i,2}-m)./s;
+    features_norm{i} = (features{i}-m)./s;
 end
+
+%% train
