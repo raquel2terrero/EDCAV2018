@@ -21,7 +21,7 @@ for i=1:N
     features{i} = [f0, coef];
 end
 
-clear audioIn
+clear audioIn f0 coef
 %% normalize
 all_features = cell2mat(features(:));
 m = mean(all_features);
@@ -31,4 +31,10 @@ for i=1:N
     features_norm{i} = (features{i}-m)./s;
 end
 
+clear all_features
 %% train
+nclases = length(clase);
+GMModels = cell(nclases,1);
+for i=1:nclases
+    GMModels{i} = train_model(cell2mat(features_norm(clases==i)));
+end
