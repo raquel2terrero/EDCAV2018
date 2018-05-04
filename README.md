@@ -15,6 +15,9 @@ classification output file (classification result): outputListFile.txt
 
 ### Functions:
 extract_feat: extract pitch and mffc from audio file
+
 train: train model
+
 classify: classify to singer from audio file
+
 main: script to call functions
