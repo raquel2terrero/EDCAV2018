@@ -18,6 +18,6 @@ extract_feat: extract pitch and mffc from audio file
 
 train_model: trains classification model from features
 
-classify: classify to singer from audio file
+classif: classify from features using trained model
 
 main: script to call functions
