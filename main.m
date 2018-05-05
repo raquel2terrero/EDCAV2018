@@ -68,7 +68,7 @@ clear all_features m s
 
 %% predict class (by maximum likelihood)
 pred_classes = zeros(N_test,1); %predicted class for each test file
-for i=1:N_train                                    
+for i=1:N_train
     feats = test_features{i};
     N_frames = size(feats,1);
     pred_class = zeros(N_frames,1); %predicted class for each frame
@@ -76,6 +76,7 @@ for i=1:N_train
         pred_class(k) = classif(feats(k,:), GMMs, 'gmm');
     end
     %post prosesado
-    %...
+    %... c = decision final
+    fprintf("El fichero "+test_fileNames{i}+" es de "+singers{c}+"\n")
 end                                                
 num_err = sum(test_classes~=pred_classes)
