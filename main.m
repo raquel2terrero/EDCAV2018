@@ -73,7 +73,7 @@ for i=1:N_train
     N_frames = size(feats,1);
     pred_class = zeros(N_frames,1); %predicted class for each frame
     for k=1:N_frames
-        pred_class(k) = classif(feats(k,:), GMMS, 'gmm');
+        pred_class(k) = classif(feats(k,:), GMMs, 'gmm');
     end
     %post prosesado
     %...
