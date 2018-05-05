@@ -1,8 +1,7 @@
+pav/*
+!pav/prj/*
 
 *desktop.ini
-*bin/*
-*intermediate/*
-*lib/*
 *.DS_Store
 *.asv
 *.m~
