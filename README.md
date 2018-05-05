@@ -14,6 +14,8 @@ test list file (list of files to test from): testListFile.txt
 classification output file (classification result): outputListFile.txt
 
 ### Functions:
+singers.txt: list of (used) dataset singers
+
 extract_feat: extract pitch and mffc from audio file
 
 train_model: trains classification model from features
