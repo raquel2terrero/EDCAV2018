@@ -3,11 +3,11 @@
 [train_fileNames, train_singers] = textread('trainListFile.txt', ...
                                             '%s %s', 'delimiter', '\t');
 N_train = length(train_singers);
-singers = textread('singers.txt', '%s'); %lista con cantantes
+singers = textread('singers.txt', '%s', 'delimiter', '\n'); %lista con cantantes
 %vector con clase (entero) de cada audio de entrenamiento
 train_clases = zeros(N_train,1);
 for i = 1:length(singers)
-    train_clases(strcmp(singers{i},train_singers)) = i;
+    train_classes(strcmp(singers{i},train_singers)) = i;
 end
 %% extract features for each train audio file - 
 %  extraer caracteristicas de cada fichero de entrenamiento
@@ -30,7 +30,7 @@ end
 
 clear all_features m s
 %% train GMM for each class - entrenar GMM para cada classe
-nclases = length(clases);
+nclases = length(singers);
 GMMs = cell(nclases,1);
 for i=1:nclases
     GMMs{i} = train_model(cell2mat(train_features(train_clases==i)));
@@ -67,16 +67,20 @@ end
 clear all_features m s
 
 %% predict class (by maximum likelihood)
-pred_classes = zeros(N_test,1); %predicted class for each test file
-for i=1:N_train
+pred_classes = zeros(N_test,1); %clase predicha para cada fichero de test
+for i=1:N_test
     feats = test_features{i};
     N_frames = size(feats,1);
-    pred_class = zeros(N_frames,1); %predicted class for each frame
-    for k=1:N_frames
-        pred_class(k) = classif(feats(k,:), GMMs, 'gmm');
-    end
-    %post prosesado
-    %... c = decision final
+    %pred_class = zeros(N_frames,1);
+    %for k=1:N_frames
+        pred_class = classif(feats, GMMs, 'gmm'); %clase predicha para cada frame
+    %end
+    %decision final clase = clase mas representada despues de filtro mediana
+    c = mode(movmedian(pred_class, 5));
     fprintf("El fichero "+test_fileNames{i}+" es de "+singers{c}+"\n")
-end                                                
-num_err = sum(test_classes~=pred_classes)
+    pred_classes(i) = c;
+end
+
+%% results - resultados
+num_errors = sum(test_clases~=pred_classes)
+confusion_matrix = confusionmat(test_clases, pred_classes)

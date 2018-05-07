@@ -5,11 +5,11 @@ function pred_class = classif(feat, model, type)
         type = 'gmm';
     end
     if strcmp(type,'gmm')==1
-        p = zeros(size(model));
+        p = zeros(size(feat,1),length(model));
         for i = 1:length(model)
-            p(i) = posterior(model{i}, feat);
+            p(:,i) = pdf(model{i}, feat);
         end
-        [~, pred_class] = max(p);
+        [~, pred_class] = max(p,[],2);
     end
 end
 
