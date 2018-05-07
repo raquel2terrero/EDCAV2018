@@ -6,8 +6,9 @@ function est_class = classif(feat, model, type)
     end
     if strcmp(type,'gmm')==1
         c = 0;
+        p = zeros(length(model), 1);
         for i = 1:length(model)
-            %p = posterior(model{i}, feat)
+            p = posterior(model{i}, feat)
         end
     end
 end
