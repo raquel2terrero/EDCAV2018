@@ -5,7 +5,7 @@
 N_train = length(train_singers);
 singers = textread('singers.txt', '%s', 'delimiter', '\n'); %lista con cantantes
 %vector con clase (entero) de cada audio de entrenamiento
-train_clases = zeros(N_train,1);
+train_classes = zeros(N_train,1);
 for i = 1:length(singers)
     train_classes(strcmp(singers{i},train_singers)) = i;
 end
@@ -33,7 +33,7 @@ clear all_features m s
 nclases = length(singers);
 GMMs = cell(nclases,1);
 for i=1:nclases
-    GMMs{i} = train_model(cell2mat(train_features(train_clases==i)));
+    GMMs{i} = train_model(cell2mat(train_features(train_classes==i)));
 end
 
 %% read test files, extract and normalize features - 
@@ -42,9 +42,9 @@ end
                                           '%s %s', 'delimiter', '\t');
 N_test = length(test_singers);
 %vector con clase (entero) de cada audio de test
-test_clases = zeros(N_test,1);
+test_classes = zeros(N_test,1);
 for i = 1:length(singers)
-    test_clases(strcmp(singers{i},test_singers)) = i;
+    test_classes(strcmp(singers{i},test_singers)) = i;
 end
 
 ncoef = 13;
@@ -82,5 +82,5 @@ for i=1:N_test
 end
 
 %% results - resultados
-num_errors = sum(test_clases~=pred_classes)
-confusion_matrix = confusionmat(test_clases, pred_classes)
+num_errors = sum(test_classes~=pred_classes)
+confusion_matrix = confusionmat(test_classes, pred_classes)
