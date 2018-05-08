@@ -13,8 +13,8 @@ test list file (list of files to test from): testListFile.txt
 
 classification output file (classification result): outputListFile.txt
 
+list of (used) dataset singers: singers.txt
 ### Functions:
-singers.txt: list of (used) dataset singers
 
 extract_feat: extract pitch and mffc from audio file
 
